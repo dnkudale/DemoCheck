@@ -13,7 +13,7 @@ namespace deal_service
     {
         public static void Main(string[] args)
         {
-            int xyz;
+           // int xyz;
             CreateHostBuilder(args).Build().Run();
         }
 
